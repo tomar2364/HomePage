@@ -24,14 +24,14 @@ const Navbar = () => {
           <MobileIcon>
             <FaBars />
           </MobileIcon>
-          <NavMenu>
+          {/* <NavMenu>
             <NavItems>
               <NavLinks to="about">Sign In</NavLinks>
             </NavItems>
           </NavMenu>
           <NavBtn>
             <NavBtnLink to="/sign.in">Join For Free</NavBtnLink>
-          </NavBtn>
+          </NavBtn> */}
         </NavbarContainer>
       </Nav>
     </>
